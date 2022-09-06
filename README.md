@@ -12,4 +12,10 @@ https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript
 https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0
 https://www.edx.org/  |   (bando-MK | D9)
 
-4. 
+4. roadmap sh
+https://roadmap.sh/
+https://roadmap.sh/pdfs
+
+5. youtube-1 
+  - freecodecamp
+    https://www.youtube.com/watch?v=zJSY8tbf_ys
