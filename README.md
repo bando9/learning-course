@@ -19,3 +19,10 @@ https://roadmap.sh/pdfs
 5. youtube-1 
   - freecodecamp
     https://www.youtube.com/watch?v=zJSY8tbf_ys
+
+
+# cari kerja
+tempat cari kerja
+
+1. my skill.id
+https://myskill.id/carikerja
