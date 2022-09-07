@@ -26,3 +26,6 @@ tempat cari kerja
 
 1. my skill.id
 https://myskill.id/carikerja
+
+2. univ pertamina
+https://universitaspertamina.ac.id/lowongan-pekerjaan
