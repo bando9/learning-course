@@ -16,7 +16,27 @@ https://www.edx.org/  |   (bando-MK | D9)
 https://roadmap.sh/
 https://roadmap.sh/pdfs
 
-5. youtube-1 
+5. <a href="https://overapi.com/">OverAPI</a>
+
+6. <a href="https://learndigital.withgoogle.com/digitalgarage/courses">google garage</a>
+
+7. <a href="https://www.classcentral.com/report/free-google-certifications/amp/">class central</a>
+
+8. <a href="https://cursa.app/en">cursa.app</a>
+
+9. Dave Anderson (medium)
+
+10. <a href="https://www.coursera.org/learn/machine-learning">machine learning coursera</a>
+
+11. <a href="https://www.udemy.com/course/javascript-essentials/">javaScript Essentials</a>
+
+12. <a href="https://www.udemy.com/course/find-a-job-interview-skills-training-course/">job interview</a>
+
+13. <a href="https://www.udemy.com/course/amazon-web-services-aws-v/">amazon web services</a>
+
+14. <a href="https://www.udemy.com/course/foundations-of-front-end-development/">foundation of front-end</a>
+
+15. youtube-1 
     - freecodecamp
       https://www.youtube.com/watch?v=zJSY8tbf_ys
     - programmingWithMosh
@@ -25,21 +45,6 @@ https://roadmap.sh/pdfs
     - Sentdex
     - Holly Lee
     - Dan Croitor
-
-6. <a href="https://learndigital.withgoogle.com/digitalgarage/courses">google garage</a>
-
-7. <a href="https://www.classcentral.com/report/free-google-certifications/amp/">class central</a>
-
-8. cursa.app
-
-9. Dave Anderson (medium)
-
-10. <a href="https://www.coursera.org/learn/machine-learning">machine learning coursera</a>
-11. <a href="https://www.udemy.com/course/javascript-essentials/">javaScript Essentials</a>
-12. <a href="https://www.udemy.com/course/find-a-job-interview-skills-training-course/">job interview</a>
-13. <a href="https://www.udemy.com/course/amazon-web-services-aws-v/">amazon web services</a>
-14. <a href="https://www.udemy.com/course/foundations-of-front-end-development/">foundation of front-end</a>
-15. OverAPI
 
 # cari kerja
 tempat cari kerja
@@ -50,12 +55,13 @@ https://myskill.id/carikerja
 2. univ pertamina
 https://universitaspertamina.ac.id/lowongan-pekerjaan
 
-3. remoteok.com
-4. weworkremotely.com
-5. remotive.com
-6. glassdoor
+3. <a href="https://remoteok.com/">remoteok.com</a>
 
-habiskerja.com
+4. <a href="https://weworkremotely.com/">weworkremotely.com</a>
+
+5. <a href="https://remotive.com/">remotive.com</a>
+
+6. <a href="https://www.glassdoor.com/">glassdoor.com</a>
 
 
 # challenge
