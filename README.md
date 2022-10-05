@@ -45,6 +45,17 @@ https://roadmap.sh/pdfs
     - Sentdex
     - Holly Lee
     - Dan Croitor
+    
+16. <a href="https://learndigital.withgoogle.com/digitalgarage/" target="_blank">Google Digital Marketing</a>
+
+<h3>website for practicing data structure & algorithm</h3>
+
+1. hackerrank.co
+2. leetcode.com
+3. codechef.com
+4. geeks for geeks
+5. topcode
+6. code forces
 
 # cari kerja
 tempat cari kerja
@@ -84,3 +95,31 @@ asah skill
 7. dropbox (2)
 8. work drive (5)
 9. media fire(10)
+
+
+<hr>
+
+<p>dream of making $250k per year (Rp. 3.800.037.500/thn), want to upgrade your life, these daily habits will change your life</p>
+doing this :
+
+- Document what you have learned
+- Code every day
+- Build projects
+- Join startup - and stick to it
+- Learn new algorithm and practice problems on it
+- Sign up for the 100dayscoding challenge and finish it
+- Tweet your thoughts on some programming concept you have learned
+- Create an eBook you can sell
+
+<b>"invest in yourself by taking courses, learning new technologies, and building a skill set."</b>
+
+sleeplessyogi is Instagram account that was junior Web Developer in 2016
+3 years later:
+- he found his dream job
+- senior web dev
+- $200K+ salary
+
+
+<hr>
+
+<a href="https://gprm.itsvg.in/">edit profile github</a>
