@@ -74,6 +74,14 @@ https://universitaspertamina.ac.id/lowongan-pekerjaan
 
 6. <a href="https://www.glassdoor.com/">glassdoor.com</a>
 
+7. <a href="https://angel.co/">Angel co</a>
+
+8. <a href="https://www.producthunt.com/">Product hunt</a>
+
+9. <a href="https://www.startupers.com/">Start upers</a>
+
+10. <a href="https://www.themuse.com/">the Muse</a>
+
 
 # challenge
 asah skill
