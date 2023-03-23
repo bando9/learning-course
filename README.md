@@ -48,6 +48,76 @@ https://roadmap.sh/pdfs
     
 16. <a href="https://learndigital.withgoogle.com/digitalgarage/" target="_blank">Google Digital Marketing</a>
 
+
+FREE ( Google ) Courses you will not regret taking in 2023
+
+Do these courses to change your life and career in next 6 months
+
+1. Google Project Management
+
+🔗https://lnkd.in/dKYXkXkh
+
+2. Foundations of Project Management
+
+🔗https://lnkd.in/dykbqppP
+
+3. Agile Project Management
+
+🔗https://lnkd.in/d8_Ptqj8
+
+4. Project Execution: Running the Project
+
+🔗https://lnkd.in/dC6SeR9M
+
+5. Project Initiation: Starting a Successful Project
+
+🔗https://lnkd.in/dNCuDX9t
+
+6. Project Planning: Putting It All Together
+
+🔗https://lnkd.in/dT8uBghN
+
+7. Google Data Analytics Professional Certificate
+
+🔗https://lnkd.in/dQFvDnVd
+
+8. Google Digital Marketing & E-commerce Professional Certificate
+
+🔗https://lnkd.in/d6zd8ZND
+
+9. Google UX Design Professional Certificate
+
+🔗https://lnkd.in/dBMRb8iJ
+
+10. Crash Course on Python
+
+🔗https://lnkd.in/dQnqfuvB
+
+11. Cloud Architect Professional Certificate
+
+🔗https://lnkd.in/dZaaWYdT
+
+12. Cloud Engineer Professional Certificate
+
+🔗https://lnkd.in/dH2ajkdk
+
+13. Machine Learning Engineer Professional Certificate
+
+🔗https://lnkd.in/d_Rbt6NH
+
+14. Cloud Security Engineer Professional Certificate
+
+🔗https://lnkd.in/dqiHmuwi
+
+15. Data Engineering, Big Data, and Machine Learning on GCP Specialization
+
+🔗https://lnkd.in/dF7F6mmR
+
+Note to get courses for free just choose Audit option instead of free trial.
+
+https://lnkd.in/dttZe6Dz
+
+
 <h3>website for practicing data structure & algorithm</h3>
 
 1. hackerrank.co
